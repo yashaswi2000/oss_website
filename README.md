@@ -1,5 +1,5 @@
 # oss_website
-Repository for Open Source community IIT ropar
+Website for Open Source Software community of IIT Ropar
 
 Maintainers
 1. Yashaswi Makula - ymakula9(discord) - 4th year CSE. undergrad
