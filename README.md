@@ -2,7 +2,7 @@
 Repository for Open Source community IIT ropar
 
 Maintainers
-1. Yashaswi Makula - ymakula9(discord) - 4th year Computer Science Engg. undergrad
+1. Yashaswi Makula - ymakula9(discord) - 4th year CSE. undergrad
 2. Ayush Agrawal - ayush_hazard(discord) - 3rd year Chemical Engg. undergrad
 
 Members
