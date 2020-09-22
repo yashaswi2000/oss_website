@@ -13,3 +13,9 @@ Members
 5. Hrishikesh - confusion(discord) - 3rd year Mech UG
 6. Rajasekhar - Raja_sekhar(discord) - 2nd year CS undergrad - Rajasekhar18110 (Github) - https://github.com/Rajasekhar18110
 7. Suraj Bhan Mundotiya - suraj_bhan(discord) - 3rd year MME UG - Suraj-bhan (Github)(https://github.com/Suraj-bhan)
+
+Getting Started
+1. Clone the Repository
+2. cd frontend
+3. run npm i
+4. run npm start
