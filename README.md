@@ -16,7 +16,7 @@ Members
 
 #### Getting Started
 ```
-git clone https://github.com/you_github_username/oss_website.git (Clone your fork basically)
+git clone https://github.com/your_github_username/oss_website.git (Clone your fork basically)
 cd oss_website
 cd frontend
 npm i
