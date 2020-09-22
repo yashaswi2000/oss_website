@@ -16,7 +16,7 @@ Members
 
 #### Getting Started
 ```
-git clone https://github.com/yashaswi2000/oss_website.git
+git clone https://github.com/you_github_username/oss_website.git
 cd oss_website
 cd frontend
 npm i
