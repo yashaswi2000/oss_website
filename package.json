@@ -1,0 +1,19 @@
+{
+  "name": "oss_website",
+  "version": "1.0.0",
+  "description": "Open-source website for OSS IIT-ROPAR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashaswi2000/oss_website.git"
+  },
+  "author": "yashaswi,ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashaswi2000/oss_website/issues"
+  },
+  "homepage": "https://github.com/yashaswi2000/oss_website#readme"
+}
