@@ -11,3 +11,4 @@ Members
 3. Ritesh Chaudhari - SpottedHyena(discord) - 3rd Yr Electrical, UG.
 4. Kshitiz Arora - ksh!t!z(discord) - 2nd year CSE undergrad - kshitiz-arora([GitHub](https://github.com/kshitiz-arora))
 5. Hrishikesh - confusion(discord) - 3rd year Mech UG
+6. Rajasekhar - Raja_sekhar(discord) - 2nd year CS undergrad - Rajasekhar18110 (Github) - https://github.com/Rajasekhar18110
